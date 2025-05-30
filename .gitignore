@@ -1,2 +1,5 @@
 # ignore vendor 
 vendor/
+
+#ignore qrcode
+qrcode/
